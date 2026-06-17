@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **aditirim2006@gmail.com** for collaboration, projects, or learning opportunities 😊
 
-- 🔭 **I’m currently working as:** React Native Intern at Bisht Enterprises
+- 🔭 **I’m currently working as:** Full stack app and web developer for real production apps
 - 🌱 **I’m currently learning:** Data Structures & Algorithms, Mobile & Web Development, and Cloud Services
 - 👯 **I’m looking to collaborate on:** DSA practice, mobile apps, web platforms, hackathons, and student projects
 - 🤔 **I’m looking for help with:** Writing optimized solutions, scalability, and real-world deployment
